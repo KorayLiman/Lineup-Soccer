@@ -1,4 +1,4 @@
-# Lineup-Soccer
+# Lineup-Socc3er
 
 Lineup Soccer does not collect, store, or share any personal information from users.
 
